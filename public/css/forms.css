@@ -1,0 +1,68 @@
+.error-message
+{
+    background-color:#e74c3c;
+    border:1px solid #d34637;
+}
+.error-message .icon-cross
+{
+    color:#e74c3c;
+}
+.message
+{
+    width:100%;
+    text-align: center;
+    padding:7px;
+    font-size:14px;
+    line-height: 20px;
+    color:white;
+}
+div[contenteditable]
+{
+    white-space: pre-wrap;
+}
+.message-hide
+{
+    float:right;
+    width: 20px;
+    height:20px;
+    border-radius: 20px;
+    background-color:white;
+    cursor:pointer;
+}
+.success-message
+{
+    background-color:#2ecc71;
+    border:1px solid #29b866
+}
+.success-message .icon-cross
+{
+    color:#2ecc71;
+}
+.message .icon-cross
+{
+
+    font-size:12px;
+}
+.form-error-text
+{
+    padding:10px 0 0 0;
+    color:#d50000;
+    font-size:12px;
+}
+.image-upload .form-error-text
+{
+    padding:0;
+}
+
+.comment-textarea-container .form-error-text
+{
+    font-size:15px;
+}
+.form-error input, .form-error input:focus, .form-error select, .form-error
+{
+    border-color:#d50000 !important;
+}
+.form-error textarea, .form-error textarea:focus
+{
+    border-color:#d50000;
+}
