@@ -1,1 +1,2 @@
-# zpravodajstvi_projekt
+# Ročníkový projekt - zpravodajský web
+Maturitní projekt na SPŠT
